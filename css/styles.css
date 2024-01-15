@@ -12,7 +12,7 @@ ul{
     list-style: none;
 }
 
-.visually-hidden {
+/* .visually-hidden {
     position: absolute;
     width: 1px;
     height: 1px;
@@ -24,14 +24,14 @@ ul{
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
     overflow: hidden;
-}
+} */
 
 .nav-link-logo{
     color:  #4D5AE5;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1,667;
+    line-height: 1,17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
@@ -138,7 +138,7 @@ ul{
     background-color: #F4F4FD;
 }
 
-.team-list{
+.team-list-item{
     background-color: #ffffff;
 }
 
